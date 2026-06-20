@@ -1,0 +1,47 @@
+# Python Build & Caching
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/
+python-build/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite Local Database
+affiliates.db
+affiliates.db-journal
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
+.antigravity/
+
+# macOS / Windows OS junk
+.DS_Store
+Thumbs.db

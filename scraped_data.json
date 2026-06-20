@@ -1,0 +1,3458 @@
+[
+  {
+    "id": 1593,
+    "name": "VEED",
+    "slug": "veed",
+    "teaser_affiliate": "30% Commission For 1 Year",
+    "teaser_company": "AI Video Editor - Fast, Online, Free",
+    "website": "https://www.veed.io",
+    "launch_year": "2018",
+    "rating_ai": "93.07",
+    "minimum_payout": null,
+    "cookie_days": 30,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/3206/conversions/Ho7PpmGW0EvK1Ok0fPtpspAXD-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/3206/conversions/Ho7PpmGW0EvK1Ok0fPtpspAXD-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/3206/conversions/Ho7PpmGW0EvK1Ok0fPtpspAXD-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/3206/conversions/Ho7PpmGW0EvK1Ok0fPtpspAXD-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/veed",
+    "goPartner": "https://affiliate.watch/go/veed/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1593,
+          "category_id": 17
+        }
+      },
+      {
+        "id": 23,
+        "name": "Video",
+        "slug": "video",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:00:44.000000Z",
+        "updated_at": "2024-04-25T06:00:44.000000Z",
+        "pivot": {
+          "affiliate_id": 1593,
+          "category_id": 23
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1593,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 1593,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 361,
+      "rankable_type": "affiliate",
+      "rankable_id": 1593,
+      "rank": 2826,
+      "created_at": "2024-05-03T06:27:44.000000Z",
+      "updated_at": "2025-12-08T16:48:42.000000Z"
+    },
+    "logo": {
+      "id": 3206,
+      "model_type": "affiliate",
+      "model_id": 1593,
+      "uuid": "a86aec19-25f4-4e56-9ba0-ed7e5407e9bf",
+      "collection_name": "logo_affiliate",
+      "name": "KUs3XFin_400x400",
+      "file_name": "Ho7PpmGW0EvK1Ok0fPtpspAXD.png",
+      "mime_type": "image/png",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 8648,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-05-03T06:27:32.000000Z",
+      "updated_at": "2024-05-03T06:27:33.000000Z",
+      "original_url": "https://affiliate.watch/storage/3206/Ho7PpmGW0EvK1Ok0fPtpspAXD.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 19,
+    "name": "NordVPN",
+    "slug": "nordvpn",
+    "teaser_affiliate": "Up To $50 Per Sale + Residuals",
+    "teaser_company": "Advanced security. Internet freedom. Complete privacy.",
+    "website": "https://nordvpn.com",
+    "launch_year": "2012",
+    "rating_ai": "92.98",
+    "minimum_payout": null,
+    "cookie_days": 30,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/19/conversions/EgSFkiO8qEgQSdcE5kxRBRkqX-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/19/conversions/EgSFkiO8qEgQSdcE5kxRBRkqX-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/19/conversions/EgSFkiO8qEgQSdcE5kxRBRkqX-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/19/conversions/EgSFkiO8qEgQSdcE5kxRBRkqX-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/nordvpn",
+    "goPartner": "https://affiliate.watch/go/nordvpn/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "Bitcoin",
+        "slug": "bitcoin"
+      },
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "Check",
+        "slug": "check"
+      },
+      {
+        "name": "Payoneer",
+        "slug": "payoneer"
+      },
+      {
+        "name": "WebMoney",
+        "slug": "webmoney"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 12,
+        "name": "VPN",
+        "slug": "vpn",
+        "teaser": "Explore the VPN category in our affiliate program directory to find premier VPN affiliate programs",
+        "description": "Our VPN category serves as a gateway for affiliates to tap into the ever-growing demand for online privacy and security solutions. This section features a handpicked selection of affiliate programs from leading VPN providers, known for their robust encryption, fast connection speeds, and global server networks. Affiliates have the opportunity to earn attractive commissions by promoting subscriptions to audiences seeking to safeguard their internet activity from prying eyes and access geo-restricted content. By partnering with these trusted VPN services, affiliates can provide their followers with valuable privacy tools while benefiting from competitive payouts, fostering a mutually beneficial ecosystem of digital security.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:29.000000Z",
+        "pivot": {
+          "affiliate_id": 19,
+          "category_id": 12
+        }
+      },
+      {
+        "id": 24,
+        "name": "Privacy",
+        "slug": "privacy",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:00:58.000000Z",
+        "updated_at": "2024-04-25T06:00:58.000000Z",
+        "pivot": {
+          "affiliate_id": 19,
+          "category_id": 24
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 1,
+        "name": "CJ",
+        "slug": "cj",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/cj",
+        "pivot": {
+          "affiliate_id": 19,
+          "network_id": 1
+        },
+        "logo": {
+          "id": 2204,
+          "model_type": "network",
+          "model_id": 1,
+          "uuid": "c42754aa-419e-44db-b8d5-28466ecbb8dc",
+          "collection_name": "logo_network",
+          "name": "600-939478a694c94c930c47b271d00fc700",
+          "file_name": "EjfrnSU7APRvleJKigRBEZKUH.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 36777,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:24.000000Z",
+          "original_url": "https://affiliate.watch/storage/2204/EjfrnSU7APRvleJKigRBEZKUH.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 19,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 12,
+        "name": "ConvertSocial",
+        "slug": "convertsocial",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2929/conversions/F7chECnhCOtbNuWO9hdp8Ue56-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2929/conversions/F7chECnhCOtbNuWO9hdp8Ue56-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2929/conversions/F7chECnhCOtbNuWO9hdp8Ue56-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2929/conversions/F7chECnhCOtbNuWO9hdp8Ue56-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/convertsocial",
+        "pivot": {
+          "affiliate_id": 19,
+          "network_id": 12
+        },
+        "logo": {
+          "id": 2929,
+          "model_type": "network",
+          "model_id": 12,
+          "uuid": "29a544a5-010e-4bb4-b36f-ad228553263b",
+          "collection_name": "logo_network",
+          "name": "convertsocial_logo",
+          "file_name": "F7chECnhCOtbNuWO9hdp8Ue56.jpeg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 6956,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-04-16T11:15:41.000000Z",
+          "updated_at": "2024-04-16T11:15:43.000000Z",
+          "original_url": "https://affiliate.watch/storage/2929/F7chECnhCOtbNuWO9hdp8Ue56.jpeg",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 19,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 18,
+      "rankable_type": "affiliate",
+      "rankable_id": 19,
+      "rank": 4766,
+      "created_at": "2024-03-17T11:24:56.000000Z",
+      "updated_at": "2026-03-09T07:14:10.000000Z"
+    },
+    "logo": {
+      "id": 19,
+      "model_type": "affiliate",
+      "model_id": 19,
+      "uuid": "5f4a36b4-54b5-4834-92cd-499c56c1936c",
+      "collection_name": "logo_affiliate",
+      "name": "600-f12bc7442ea9e6d54b4d54f609f3446e",
+      "file_name": "EgSFkiO8qEgQSdcE5kxRBRkqX.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 25688,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:47.000000Z",
+      "updated_at": "2024-03-17T03:48:52.000000Z",
+      "original_url": "https://affiliate.watch/storage/19/EgSFkiO8qEgQSdcE5kxRBRkqX.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 10,
+    "name": "Constant Contact",
+    "slug": "constant-contact",
+    "teaser_affiliate": "$5 Per Lead / $105 Commission",
+    "teaser_company": "Powerful email marketing made easy",
+    "website": "https://constantcontact.com",
+    "launch_year": "1995",
+    "rating_ai": "92.45",
+    "minimum_payout": null,
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/10/conversions/yG3jpCUewfCJEknV39ilHdNeM-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/10/conversions/yG3jpCUewfCJEknV39ilHdNeM-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/10/conversions/yG3jpCUewfCJEknV39ilHdNeM-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/10/conversions/yG3jpCUewfCJEknV39ilHdNeM-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/constant-contact",
+    "goPartner": "https://affiliate.watch/go/constant-contact/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 13,
+        "name": "Email",
+        "slug": "email",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T16:52:47.000000Z",
+        "pivot": {
+          "affiliate_id": 10,
+          "category_id": 13
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 10,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 10,
+      "rankable_type": "affiliate",
+      "rankable_id": 10,
+      "rank": 3686,
+      "created_at": "2024-03-17T11:24:50.000000Z",
+      "updated_at": "2026-03-09T07:14:09.000000Z"
+    },
+    "logo": {
+      "id": 10,
+      "model_type": "affiliate",
+      "model_id": 10,
+      "uuid": "b50bb2b9-fdfc-4db8-b250-d42c35f5c9a1",
+      "collection_name": "logo_affiliate",
+      "name": "600-89c060b6d228acfa96229795e20798a4",
+      "file_name": "yG3jpCUewfCJEknV39ilHdNeM.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 39602,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:47.000000Z",
+      "updated_at": "2024-03-17T03:48:50.000000Z",
+      "original_url": "https://affiliate.watch/storage/10/yG3jpCUewfCJEknV39ilHdNeM.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1549,
+    "name": "Notion",
+    "slug": "notion",
+    "teaser_affiliate": "Up To $50 Per Sale + 20% For 1 Year",
+    "teaser_company": "Your Connected Workspace",
+    "website": "https://www.notion.com",
+    "launch_year": "2016",
+    "rating_ai": "92.43",
+    "minimum_payout": "$5",
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/2703/conversions/3jWskmpvZXsNrBvPZN1sLRUIq-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/2703/conversions/3jWskmpvZXsNrBvPZN1sLRUIq-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/2703/conversions/3jWskmpvZXsNrBvPZN1sLRUIq-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/2703/conversions/3jWskmpvZXsNrBvPZN1sLRUIq-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/notion",
+    "goPartner": "https://affiliate.watch/go/notion/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 6,
+        "name": "Productivity",
+        "slug": "productivity",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T18:08:29.000000Z",
+        "pivot": {
+          "affiliate_id": 1549,
+          "category_id": 6
+        }
+      },
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1549,
+          "category_id": 17
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 1549,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 324,
+      "rankable_type": "affiliate",
+      "rankable_id": 1549,
+      "rank": 141,
+      "created_at": "2024-03-31T04:58:13.000000Z",
+      "updated_at": "2026-03-10T13:29:35.000000Z"
+    },
+    "logo": {
+      "id": 2703,
+      "model_type": "affiliate",
+      "model_id": 1549,
+      "uuid": "bfddee14-6f65-4df7-86a1-05c4dc6be868",
+      "collection_name": "logo_affiliate",
+      "name": "352762636_1993470730992550_5012719021558441499_n",
+      "file_name": "3jWskmpvZXsNrBvPZN1sLRUIq.png",
+      "mime_type": "image/png",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 9335,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-31T04:58:13.000000Z",
+      "updated_at": "2024-03-31T04:58:14.000000Z",
+      "original_url": "https://affiliate.watch/storage/2703/3jWskmpvZXsNrBvPZN1sLRUIq.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1833,
+    "name": "Exness",
+    "slug": "exness",
+    "teaser_affiliate": "Up To $1,850 Per CPA lead",
+    "teaser_company": "World\u2019s Largest Retail Broker",
+    "website": "https://www.exness.com",
+    "launch_year": "2008",
+    "rating_ai": "91.75",
+    "minimum_payout": "$10",
+    "cookie_days": 180,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/5157/conversions/txPRV56oVwmMGPbm9VC2ocVwm-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/5157/conversions/txPRV56oVwmMGPbm9VC2ocVwm-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/5157/conversions/txPRV56oVwmMGPbm9VC2ocVwm-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/5157/conversions/txPRV56oVwmMGPbm9VC2ocVwm-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/exness",
+    "goPartner": "https://affiliate.watch/go/exness/partner",
+    "all_payment_methods": [
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "USDC",
+        "slug": "usdc"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      },
+      {
+        "name": "Skrill",
+        "slug": "skrill"
+      }
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Cryptocurrency",
+        "slug": "cryptocurrency",
+        "teaser": "Explore the cryptocurrency category in our affiliate program directory to find premier cryptocurrency affiliate programs",
+        "description": "In the dynamic world of digital finance, our cryptocurrency category stands as a comprehensive resource for affiliates eager to explore the lucrative realm of cryptocurrency. This category curates a list of affiliate programs from leading cryptocurrency exchanges, hardware wallets, and trading bots, offering a broad spectrum of opportunities for earning commissions through referrals. Whether promoting trading services, hardware wallets, or the automation efficiency of trading bots, our directory provides access to high-quality programs designed to match a variety of audience interests. By leveraging our carefully selected affiliate programs, partners can capitalize on the burgeoning crypto market, driving traffic and generating revenue through innovative and secure cryptocurrency solutions.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:11.000000Z",
+        "pivot": {
+          "affiliate_id": 1833,
+          "category_id": 2
+        }
+      },
+      {
+        "id": 10,
+        "name": "Finance",
+        "slug": "finance",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T17:06:27.000000Z",
+        "pivot": {
+          "affiliate_id": 1833,
+          "category_id": 10
+        }
+      },
+      {
+        "id": 28,
+        "name": "Forex",
+        "slug": "forex",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T13:59:29.000000Z",
+        "updated_at": "2024-04-25T13:59:29.000000Z",
+        "pivot": {
+          "affiliate_id": 1833,
+          "category_id": 28
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 1833,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 543,
+      "rankable_type": "affiliate",
+      "rankable_id": 1833,
+      "rank": 1627,
+      "created_at": "2024-09-26T16:05:54.000000Z",
+      "updated_at": "2025-12-08T16:49:14.000000Z"
+    },
+    "logo": {
+      "id": 5157,
+      "model_type": "affiliate",
+      "model_id": 1833,
+      "uuid": "e8ae756c-9b66-4d6b-a2e9-c22c6cce7568",
+      "collection_name": "logo_affiliate",
+      "name": "98KFIh-y_400x400",
+      "file_name": "txPRV56oVwmMGPbm9VC2ocVwm.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 19916,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-09-26T16:05:54.000000Z",
+      "updated_at": "2024-09-26T16:05:54.000000Z",
+      "original_url": "https://affiliate.watch/storage/5157/txPRV56oVwmMGPbm9VC2ocVwm.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fiverr",
+    "slug": "fiverr",
+    "teaser_affiliate": "25-100% Commission / 10% For 1 Year",
+    "teaser_company": "Freelance Services Marketplace",
+    "website": "https://fiverr.com",
+    "launch_year": "2010",
+    "rating_ai": "91.60",
+    "minimum_payout": "$100",
+    "cookie_days": 360,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/3/conversions/kr2G4Af3VnfW4ZelrSxA6NM83-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/3/conversions/kr2G4Af3VnfW4ZelrSxA6NM83-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/3/conversions/kr2G4Af3VnfW4ZelrSxA6NM83-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/3/conversions/kr2G4Af3VnfW4ZelrSxA6NM83-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/fiverr",
+    "goPartner": "https://affiliate.watch/go/fiverr/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Payoneer",
+        "slug": "payoneer"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 3,
+        "name": "Market Place",
+        "slug": "market-place",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T18:00:11.000000Z",
+        "pivot": {
+          "affiliate_id": 3,
+          "category_id": 3
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 3,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 3,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 3,
+      "rankable_type": "affiliate",
+      "rankable_id": 3,
+      "rank": 641,
+      "created_at": "2024-03-17T11:24:43.000000Z",
+      "updated_at": "2026-03-09T07:14:08.000000Z"
+    },
+    "logo": {
+      "id": 3,
+      "model_type": "affiliate",
+      "model_id": 3,
+      "uuid": "78672b37-e154-4be9-9903-ff7aaf2fbd0a",
+      "collection_name": "logo_affiliate",
+      "name": "600-4876768030d0e8f7a55fd44c36d17e6f",
+      "file_name": "kr2G4Af3VnfW4ZelrSxA6NM83.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 41933,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:46.000000Z",
+      "updated_at": "2024-03-17T03:48:48.000000Z",
+      "original_url": "https://affiliate.watch/storage/3/kr2G4Af3VnfW4ZelrSxA6NM83.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1882,
+    "name": "PureVPN",
+    "slug": "purevpn",
+    "teaser_affiliate": "40%-100% 1st Month / 35% Life",
+    "teaser_company": "Take Back Your Privacy",
+    "website": "https://www.purevpn.com",
+    "launch_year": "2007",
+    "rating_ai": "91.46",
+    "minimum_payout": "$100",
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/5441/conversions/xdYGEb7LdgWIa12ippq0GJqbO-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/5441/conversions/xdYGEb7LdgWIa12ippq0GJqbO-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/5441/conversions/xdYGEb7LdgWIa12ippq0GJqbO-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/5441/conversions/xdYGEb7LdgWIa12ippq0GJqbO-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/purevpn",
+    "goPartner": "https://affiliate.watch/go/purevpn/partner",
+    "all_payment_methods": [
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 12,
+        "name": "VPN",
+        "slug": "vpn",
+        "teaser": "Explore the VPN category in our affiliate program directory to find premier VPN affiliate programs",
+        "description": "Our VPN category serves as a gateway for affiliates to tap into the ever-growing demand for online privacy and security solutions. This section features a handpicked selection of affiliate programs from leading VPN providers, known for their robust encryption, fast connection speeds, and global server networks. Affiliates have the opportunity to earn attractive commissions by promoting subscriptions to audiences seeking to safeguard their internet activity from prying eyes and access geo-restricted content. By partnering with these trusted VPN services, affiliates can provide their followers with valuable privacy tools while benefiting from competitive payouts, fostering a mutually beneficial ecosystem of digital security.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:29.000000Z",
+        "pivot": {
+          "affiliate_id": 1882,
+          "category_id": 12
+        }
+      },
+      {
+        "id": 24,
+        "name": "Privacy",
+        "slug": "privacy",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:00:58.000000Z",
+        "updated_at": "2024-04-25T06:00:58.000000Z",
+        "pivot": {
+          "affiliate_id": 1882,
+          "category_id": 24
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 1882,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1882,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 1882,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 573,
+      "rankable_type": "affiliate",
+      "rankable_id": 1882,
+      "rank": 42840,
+      "created_at": "2024-11-07T14:01:25.000000Z",
+      "updated_at": "2025-12-08T16:49:19.000000Z"
+    },
+    "logo": {
+      "id": 5441,
+      "model_type": "affiliate",
+      "model_id": 1882,
+      "uuid": "2b4a1d79-6624-4613-965e-ababcae0a4b6",
+      "collection_name": "logo_affiliate",
+      "name": "media-libraryAwLs9i",
+      "file_name": "xdYGEb7LdgWIa12ippq0GJqbO.png",
+      "mime_type": "image/png",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 29996,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-11-04T12:40:16.000000Z",
+      "updated_at": "2024-11-04T12:40:18.000000Z",
+      "original_url": "https://affiliate.watch/storage/5441/xdYGEb7LdgWIa12ippq0GJqbO.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1950,
+    "name": "Wondershare",
+    "slug": "wondershare",
+    "teaser_affiliate": "30-50% Commission",
+    "teaser_company": "Software Company",
+    "website": "https://www.wondershare.com",
+    "launch_year": "2003",
+    "rating_ai": "91.13",
+    "minimum_payout": null,
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/5931/conversions/XY798XMmvpe9sfYjk8jJR3qWg-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/5931/conversions/XY798XMmvpe9sfYjk8jJR3qWg-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/5931/conversions/XY798XMmvpe9sfYjk8jJR3qWg-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/5931/conversions/XY798XMmvpe9sfYjk8jJR3qWg-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/wondershare",
+    "goPartner": "https://affiliate.watch/go/wondershare/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "Check",
+        "slug": "check"
+      },
+      {
+        "name": "Payoneer",
+        "slug": "payoneer"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 26,
+        "name": "SaaS",
+        "slug": "saas",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:04:37.000000Z",
+        "updated_at": "2024-04-25T06:04:37.000000Z",
+        "pivot": {
+          "affiliate_id": 1950,
+          "category_id": 26
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 1,
+        "name": "CJ",
+        "slug": "cj",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/cj",
+        "pivot": {
+          "affiliate_id": 1950,
+          "network_id": 1
+        },
+        "logo": {
+          "id": 2204,
+          "model_type": "network",
+          "model_id": 1,
+          "uuid": "c42754aa-419e-44db-b8d5-28466ecbb8dc",
+          "collection_name": "logo_network",
+          "name": "600-939478a694c94c930c47b271d00fc700",
+          "file_name": "EjfrnSU7APRvleJKigRBEZKUH.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 36777,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:24.000000Z",
+          "original_url": "https://affiliate.watch/storage/2204/EjfrnSU7APRvleJKigRBEZKUH.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1950,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 18,
+        "name": "Awin",
+        "slug": "awin",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/awin",
+        "pivot": {
+          "affiliate_id": 1950,
+          "network_id": 18
+        },
+        "logo": {
+          "id": 3538,
+          "model_type": "network",
+          "model_id": 18,
+          "uuid": "5dba92b8-43d9-40cc-89e9-d2051c9bc13e",
+          "collection_name": "logo_network",
+          "name": "291351274_1697691473962527_374311149716995796_n",
+          "file_name": "skJacJaRUkU9FSN1VRN4Lu5ua.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 94317,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-18T06:47:21.000000Z",
+          "updated_at": "2024-05-18T06:47:22.000000Z",
+          "original_url": "https://affiliate.watch/storage/3538/skJacJaRUkU9FSN1VRN4Lu5ua.jpg",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 619,
+      "rankable_type": "affiliate",
+      "rankable_id": 1950,
+      "rank": 6460,
+      "created_at": "2024-12-30T13:22:41.000000Z",
+      "updated_at": "2025-12-08T16:49:27.000000Z"
+    },
+    "logo": {
+      "id": 5931,
+      "model_type": "affiliate",
+      "model_id": 1950,
+      "uuid": "18b0374b-ff07-48db-a21d-839974b6ff9d",
+      "collection_name": "logo_affiliate",
+      "name": "326062844_711126460574169_3955910126686123868_n",
+      "file_name": "XY798XMmvpe9sfYjk8jJR3qWg.png",
+      "mime_type": "image/png",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 4757,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-12-29T16:25:34.000000Z",
+      "updated_at": "2024-12-29T16:25:36.000000Z",
+      "original_url": "https://affiliate.watch/storage/5931/XY798XMmvpe9sfYjk8jJR3qWg.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1712,
+    "name": "Figma",
+    "slug": "figma",
+    "teaser_affiliate": "Up To $54 Per Customer",
+    "teaser_company": "The Collaborative Interface Design Tool",
+    "website": "https://www.figma.com",
+    "launch_year": "2016",
+    "rating_ai": "90.67",
+    "minimum_payout": null,
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/4202/conversions/32eneKOnmgb5uGY6irKux7eEg-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/4202/conversions/32eneKOnmgb5uGY6irKux7eEg-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/4202/conversions/32eneKOnmgb5uGY6irKux7eEg-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/4202/conversions/32eneKOnmgb5uGY6irKux7eEg-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/figma",
+    "goPartner": "https://affiliate.watch/go/figma/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 20,
+        "name": "Design",
+        "slug": "design",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T05:58:13.000000Z",
+        "updated_at": "2024-04-25T05:58:13.000000Z",
+        "pivot": {
+          "affiliate_id": 1712,
+          "category_id": 20
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 1712,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 461,
+      "rankable_type": "affiliate",
+      "rankable_id": 1712,
+      "rank": 192,
+      "created_at": "2024-06-21T15:08:21.000000Z",
+      "updated_at": "2025-12-08T16:48:59.000000Z"
+    },
+    "logo": {
+      "id": 4202,
+      "model_type": "affiliate",
+      "model_id": 1712,
+      "uuid": "737d99f9-19d3-47bf-a37f-f23dd74b8caf",
+      "collection_name": "logo_affiliate",
+      "name": "339446266_746607080404238_2348672906438710418_n",
+      "file_name": "32eneKOnmgb5uGY6irKux7eEg.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 113265,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-06-21T14:47:45.000000Z",
+      "updated_at": "2024-06-21T14:47:45.000000Z",
+      "original_url": "https://affiliate.watch/storage/4202/32eneKOnmgb5uGY6irKux7eEg.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1582,
+    "name": "Semrush",
+    "slug": "semrush",
+    "teaser_affiliate": "$200-350 Per Sale",
+    "teaser_company": "Online Marketing Can Be Easy",
+    "website": "https://www.semrush.com",
+    "launch_year": "2008",
+    "rating_ai": "90.57",
+    "minimum_payout": null,
+    "cookie_days": 120,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/3071/conversions/lx8uHVicCD1qUBty0q4mMxyw3-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/3071/conversions/lx8uHVicCD1qUBty0q4mMxyw3-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/3071/conversions/lx8uHVicCD1qUBty0q4mMxyw3-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/3071/conversions/lx8uHVicCD1qUBty0q4mMxyw3-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/semrush",
+    "goPartner": "https://affiliate.watch/go/semrush/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      }
+    ],
+    "categories": [
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1582,
+          "category_id": 17
+        }
+      },
+      {
+        "id": 25,
+        "name": "SEO",
+        "slug": "seo",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:01:23.000000Z",
+        "updated_at": "2024-04-25T06:01:23.000000Z",
+        "pivot": {
+          "affiliate_id": 1582,
+          "category_id": 25
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1582,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 350,
+      "rankable_type": "affiliate",
+      "rankable_id": 1582,
+      "rank": 4450,
+      "created_at": "2024-04-29T10:55:40.000000Z",
+      "updated_at": "2025-12-08T16:48:41.000000Z"
+    },
+    "logo": {
+      "id": 3071,
+      "model_type": "affiliate",
+      "model_id": 1582,
+      "uuid": "79aed515-986d-4b3c-8065-501a0c0e10e9",
+      "collection_name": "logo_affiliate",
+      "name": "f2yDQq4-_400x400",
+      "file_name": "lx8uHVicCD1qUBty0q4mMxyw3.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 16990,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-04-29T10:55:28.000000Z",
+      "updated_at": "2024-04-29T10:55:29.000000Z",
+      "original_url": "https://affiliate.watch/storage/3071/lx8uHVicCD1qUBty0q4mMxyw3.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 12,
+    "name": "Namecheap",
+    "slug": "namecheap",
+    "teaser_affiliate": "20%-50% Commission",
+    "teaser_company": "Cheap Domain Names - Buy Domain Names from $0.88",
+    "website": "https://namecheap.com",
+    "launch_year": "2000",
+    "rating_ai": "90.44",
+    "minimum_payout": null,
+    "cookie_days": 30,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/12/conversions/TLcVkiOONXwimxvPitar37SQA-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/12/conversions/TLcVkiOONXwimxvPitar37SQA-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/12/conversions/TLcVkiOONXwimxvPitar37SQA-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/12/conversions/TLcVkiOONXwimxvPitar37SQA-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/namecheap",
+    "goPartner": "https://affiliate.watch/go/namecheap/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "Check",
+        "slug": "check"
+      },
+      {
+        "name": "Payoneer",
+        "slug": "payoneer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Hosting",
+        "slug": "hosting",
+        "teaser": "Explore the hosting category in our affiliate program directory to find premier web hosting affiliate programs",
+        "description": "In the vast digital landscape, our web hosting category emerges as a pivotal resource for affiliates aiming to monetize their platforms through web hosting services. This category showcases a diverse collection of affiliate programs from reputable web hosting providers, spanning shared, VPS, dedicated, and cloud hosting options. Each program is selected for its potential to offer substantial commissions, reliability, and exceptional customer support, ensuring affiliates can confidently promote services to their audience. By connecting with these carefully vetted hosting services, affiliates have the opportunity to earn competitive payouts by referring customers seeking robust, scalable, and secure web solutions. Our directory is the bridge between high-quality web hosting services and affiliates looking to elevate their earnings in the digital space.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:16.000000Z",
+        "pivot": {
+          "affiliate_id": 12,
+          "category_id": 1
+        }
+      },
+      {
+        "id": 7,
+        "name": "Domains",
+        "slug": "domains",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T16:54:02.000000Z",
+        "pivot": {
+          "affiliate_id": 12,
+          "category_id": 7
+        }
+      },
+      {
+        "id": 12,
+        "name": "VPN",
+        "slug": "vpn",
+        "teaser": "Explore the VPN category in our affiliate program directory to find premier VPN affiliate programs",
+        "description": "Our VPN category serves as a gateway for affiliates to tap into the ever-growing demand for online privacy and security solutions. This section features a handpicked selection of affiliate programs from leading VPN providers, known for their robust encryption, fast connection speeds, and global server networks. Affiliates have the opportunity to earn attractive commissions by promoting subscriptions to audiences seeking to safeguard their internet activity from prying eyes and access geo-restricted content. By partnering with these trusted VPN services, affiliates can provide their followers with valuable privacy tools while benefiting from competitive payouts, fostering a mutually beneficial ecosystem of digital security.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:29.000000Z",
+        "pivot": {
+          "affiliate_id": 12,
+          "category_id": 12
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 1,
+        "name": "CJ",
+        "slug": "cj",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2204/conversions/EjfrnSU7APRvleJKigRBEZKUH-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/cj",
+        "pivot": {
+          "affiliate_id": 12,
+          "network_id": 1
+        },
+        "logo": {
+          "id": 2204,
+          "model_type": "network",
+          "model_id": 1,
+          "uuid": "c42754aa-419e-44db-b8d5-28466ecbb8dc",
+          "collection_name": "logo_network",
+          "name": "600-939478a694c94c930c47b271d00fc700",
+          "file_name": "EjfrnSU7APRvleJKigRBEZKUH.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 36777,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:24.000000Z",
+          "original_url": "https://affiliate.watch/storage/2204/EjfrnSU7APRvleJKigRBEZKUH.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 12,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 18,
+        "name": "Awin",
+        "slug": "awin",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3538/conversions/skJacJaRUkU9FSN1VRN4Lu5ua-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/awin",
+        "pivot": {
+          "affiliate_id": 12,
+          "network_id": 18
+        },
+        "logo": {
+          "id": 3538,
+          "model_type": "network",
+          "model_id": 18,
+          "uuid": "5dba92b8-43d9-40cc-89e9-d2051c9bc13e",
+          "collection_name": "logo_network",
+          "name": "291351274_1697691473962527_374311149716995796_n",
+          "file_name": "skJacJaRUkU9FSN1VRN4Lu5ua.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 94317,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-18T06:47:21.000000Z",
+          "updated_at": "2024-05-18T06:47:22.000000Z",
+          "original_url": "https://affiliate.watch/storage/3538/skJacJaRUkU9FSN1VRN4Lu5ua.jpg",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 12,
+      "rankable_type": "affiliate",
+      "rankable_id": 12,
+      "rank": 3588,
+      "created_at": "2024-03-17T11:24:51.000000Z",
+      "updated_at": "2026-03-09T07:14:09.000000Z"
+    },
+    "logo": {
+      "id": 12,
+      "model_type": "affiliate",
+      "model_id": 12,
+      "uuid": "1692be84-bb71-4917-bd07-57c3890d372d",
+      "collection_name": "logo_affiliate",
+      "name": "600-0a55f1f9ef8b694bbd6eb97b8ec7b744",
+      "file_name": "TLcVkiOONXwimxvPitar37SQA.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 25243,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:47.000000Z",
+      "updated_at": "2024-03-17T03:48:50.000000Z",
+      "original_url": "https://affiliate.watch/storage/12/TLcVkiOONXwimxvPitar37SQA.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1933,
+    "name": "Pipedrive",
+    "slug": "pipedrive",
+    "teaser_affiliate": "20-30% Commission For 1 Year",
+    "teaser_company": "Sales CRM and Pipeline Management Software",
+    "website": "https://www.pipedrive.com",
+    "launch_year": "2010",
+    "rating_ai": "90.42",
+    "minimum_payout": null,
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/5816/conversions/wcBF9xDSn6wxJRthXTRC4Ex4q-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/5816/conversions/wcBF9xDSn6wxJRthXTRC4Ex4q-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/5816/conversions/wcBF9xDSn6wxJRthXTRC4Ex4q-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/5816/conversions/wcBF9xDSn6wxJRthXTRC4Ex4q-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/pipedrive",
+    "goPartner": "https://affiliate.watch/go/pipedrive/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Sales",
+        "slug": "sales",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T17:56:54.000000Z",
+        "pivot": {
+          "affiliate_id": 1933,
+          "category_id": 4
+        }
+      },
+      {
+        "id": 26,
+        "name": "SaaS",
+        "slug": "saas",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:04:37.000000Z",
+        "updated_at": "2024-04-25T06:04:37.000000Z",
+        "pivot": {
+          "affiliate_id": 1933,
+          "category_id": 26
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 1933,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 603,
+      "rankable_type": "affiliate",
+      "rankable_id": 1933,
+      "rank": 4740,
+      "created_at": "2024-12-23T05:14:10.000000Z",
+      "updated_at": "2025-12-08T16:49:24.000000Z"
+    },
+    "logo": {
+      "id": 5816,
+      "model_type": "affiliate",
+      "model_id": 1933,
+      "uuid": "433ba276-c905-41fb-8633-114d8e65ba49",
+      "collection_name": "logo_affiliate",
+      "name": "IytS-L9i_400x400",
+      "file_name": "wcBF9xDSn6wxJRthXTRC4Ex4q.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 8554,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-12-23T05:14:10.000000Z",
+      "updated_at": "2024-12-23T05:14:12.000000Z",
+      "original_url": "https://affiliate.watch/storage/5816/wcBF9xDSn6wxJRthXTRC4Ex4q.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 2334,
+    "name": "AdGuard",
+    "slug": "adguard",
+    "teaser_affiliate": "50% Lifetime Commission",
+    "teaser_company": "Block Ads and Trackers",
+    "website": "https://adguard.com",
+    "launch_year": "2009",
+    "rating_ai": "90.34",
+    "minimum_payout": "$20",
+    "cookie_days": 365,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/7459/conversions/Dxc817xyAntKB0IcAwytCsG1i-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/7459/conversions/Dxc817xyAntKB0IcAwytCsG1i-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/7459/conversions/Dxc817xyAntKB0IcAwytCsG1i-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/7459/conversions/Dxc817xyAntKB0IcAwytCsG1i-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/adguard",
+    "goPartner": "https://affiliate.watch/go/adguard/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "WebMoney",
+        "slug": "webmoney"
+      },
+      {
+        "name": "Qiwi",
+        "slug": "qiwi"
+      }
+    ],
+    "categories": [
+      {
+        "id": 12,
+        "name": "VPN",
+        "slug": "vpn",
+        "teaser": "Explore the VPN category in our affiliate program directory to find premier VPN affiliate programs",
+        "description": "Our VPN category serves as a gateway for affiliates to tap into the ever-growing demand for online privacy and security solutions. This section features a handpicked selection of affiliate programs from leading VPN providers, known for their robust encryption, fast connection speeds, and global server networks. Affiliates have the opportunity to earn attractive commissions by promoting subscriptions to audiences seeking to safeguard their internet activity from prying eyes and access geo-restricted content. By partnering with these trusted VPN services, affiliates can provide their followers with valuable privacy tools while benefiting from competitive payouts, fostering a mutually beneficial ecosystem of digital security.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:29.000000Z",
+        "pivot": {
+          "affiliate_id": 2334,
+          "category_id": 12
+        }
+      },
+      {
+        "id": 24,
+        "name": "Privacy",
+        "slug": "privacy",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:00:58.000000Z",
+        "updated_at": "2024-04-25T06:00:58.000000Z",
+        "pivot": {
+          "affiliate_id": 2334,
+          "category_id": 24
+        }
+      },
+      {
+        "id": 26,
+        "name": "SaaS",
+        "slug": "saas",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:04:37.000000Z",
+        "updated_at": "2024-04-25T06:04:37.000000Z",
+        "pivot": {
+          "affiliate_id": 2334,
+          "category_id": 26
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 2334,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 861,
+      "rankable_type": "affiliate",
+      "rankable_id": 2334,
+      "rank": 10385,
+      "created_at": "2025-10-09T15:09:59.000000Z",
+      "updated_at": "2025-12-08T16:49:56.000000Z"
+    },
+    "logo": {
+      "id": 7459,
+      "model_type": "affiliate",
+      "model_id": 2334,
+      "uuid": "43cbd105-8eae-49a9-ab04-b651974e0a7d",
+      "collection_name": "logo_affiliate",
+      "name": "media-libraryGAibom",
+      "file_name": "Dxc817xyAntKB0IcAwytCsG1i.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 73614,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2025-09-25T15:28:33.000000Z",
+      "updated_at": "2025-09-25T15:28:34.000000Z",
+      "original_url": "https://affiliate.watch/storage/7459/Dxc817xyAntKB0IcAwytCsG1i.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 197,
+    "name": "Cloudways",
+    "slug": "cloudways",
+    "teaser_affiliate": "$50-125 Per Sale",
+    "teaser_company": "Managed Cloud Hosting",
+    "website": "https://cloudways.com",
+    "launch_year": "2011",
+    "rating_ai": "90.34",
+    "minimum_payout": "$250",
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/119/conversions/CX4PX35YiXPtaqhDzzKGGgfYe-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/119/conversions/CX4PX35YiXPtaqhDzzKGGgfYe-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/119/conversions/CX4PX35YiXPtaqhDzzKGGgfYe-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/119/conversions/CX4PX35YiXPtaqhDzzKGGgfYe-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/cloudways",
+    "goPartner": "https://affiliate.watch/go/cloudways/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Hosting",
+        "slug": "hosting",
+        "teaser": "Explore the hosting category in our affiliate program directory to find premier web hosting affiliate programs",
+        "description": "In the vast digital landscape, our web hosting category emerges as a pivotal resource for affiliates aiming to monetize their platforms through web hosting services. This category showcases a diverse collection of affiliate programs from reputable web hosting providers, spanning shared, VPS, dedicated, and cloud hosting options. Each program is selected for its potential to offer substantial commissions, reliability, and exceptional customer support, ensuring affiliates can confidently promote services to their audience. By connecting with these carefully vetted hosting services, affiliates have the opportunity to earn competitive payouts by referring customers seeking robust, scalable, and secure web solutions. Our directory is the bridge between high-quality web hosting services and affiliates looking to elevate their earnings in the digital space.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:16.000000Z",
+        "pivot": {
+          "affiliate_id": 197,
+          "category_id": 1
+        }
+      },
+      {
+        "id": 22,
+        "name": "WordPress",
+        "slug": "wordpress",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T05:59:29.000000Z",
+        "updated_at": "2024-04-25T05:59:29.000000Z",
+        "pivot": {
+          "affiliate_id": 197,
+          "category_id": 22
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 197,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 197,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 90,
+      "rankable_type": "affiliate",
+      "rankable_id": 197,
+      "rank": 34457,
+      "created_at": "2024-03-17T11:25:55.000000Z",
+      "updated_at": "2026-03-09T07:14:17.000000Z"
+    },
+    "logo": {
+      "id": 119,
+      "model_type": "affiliate",
+      "model_id": 197,
+      "uuid": "3b7017f8-2da3-4087-a504-6bbd7d4d8270",
+      "collection_name": "logo_affiliate",
+      "name": "600-0d7e6e67825420a388ae559dbbbace96",
+      "file_name": "CX4PX35YiXPtaqhDzzKGGgfYe.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 31222,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:54.000000Z",
+      "updated_at": "2024-03-17T03:49:14.000000Z",
+      "original_url": "https://affiliate.watch/storage/119/CX4PX35YiXPtaqhDzzKGGgfYe.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1754,
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "teaser_affiliate": "30% Commission For 1 Year",
+    "teaser_company": "Software, Tools, Resources for Your Business",
+    "website": "https://www.hubspot.com",
+    "launch_year": "2006",
+    "rating_ai": "90.21",
+    "minimum_payout": null,
+    "cookie_days": 30,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/4527/conversions/oLXSeIqrHMfksnRNOsdEo0p77-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/4527/conversions/oLXSeIqrHMfksnRNOsdEo0p77-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/4527/conversions/oLXSeIqrHMfksnRNOsdEo0p77-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/4527/conversions/oLXSeIqrHMfksnRNOsdEo0p77-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/hubspot",
+    "goPartner": "https://affiliate.watch/go/hubspot/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      }
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Sales",
+        "slug": "sales",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T17:56:54.000000Z",
+        "pivot": {
+          "affiliate_id": 1754,
+          "category_id": 4
+        }
+      },
+      {
+        "id": 6,
+        "name": "Productivity",
+        "slug": "productivity",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T18:08:29.000000Z",
+        "pivot": {
+          "affiliate_id": 1754,
+          "category_id": 6
+        }
+      },
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1754,
+          "category_id": 17
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1754,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 496,
+      "rankable_type": "affiliate",
+      "rankable_id": 1754,
+      "rank": 737,
+      "created_at": "2024-07-09T08:18:49.000000Z",
+      "updated_at": "2025-12-08T16:49:05.000000Z"
+    },
+    "logo": {
+      "id": 4527,
+      "model_type": "affiliate",
+      "model_id": 1754,
+      "uuid": "90a91fb7-f130-43c7-8e31-30ecf227c807",
+      "collection_name": "logo_affiliate",
+      "name": "275133088_10159804460434394_358548177345311446_n",
+      "file_name": "oLXSeIqrHMfksnRNOsdEo0p77.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 20236,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-07-09T08:08:56.000000Z",
+      "updated_at": "2024-07-09T08:08:57.000000Z",
+      "original_url": "https://affiliate.watch/storage/4527/oLXSeIqrHMfksnRNOsdEo0p77.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1598,
+    "name": "Invideo AI",
+    "slug": "invideo-ai",
+    "teaser_affiliate": "25%-50% Commission",
+    "teaser_company": "Turn Ideas Into Videos",
+    "website": "https://invideo.io",
+    "launch_year": "2017",
+    "rating_ai": "90.20",
+    "minimum_payout": null,
+    "cookie_days": 120,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/3236/conversions/vNqfPllvZ3wXV6rZwN9Btjmz8-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/3236/conversions/vNqfPllvZ3wXV6rZwN9Btjmz8-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/3236/conversions/vNqfPllvZ3wXV6rZwN9Btjmz8-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/3236/conversions/vNqfPllvZ3wXV6rZwN9Btjmz8-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/invideo-ai",
+    "goPartner": "https://affiliate.watch/go/invideo-ai/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      },
+      {
+        "name": "Tether (USDT)",
+        "slug": "tether-usdt"
+      }
+    ],
+    "categories": [
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1598,
+          "category_id": 17
+        }
+      },
+      {
+        "id": 23,
+        "name": "Video",
+        "slug": "video",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:00:44.000000Z",
+        "updated_at": "2024-04-25T06:00:44.000000Z",
+        "pivot": {
+          "affiliate_id": 1598,
+          "category_id": 23
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1598,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      },
+      {
+        "id": 33,
+        "name": "Indoleads",
+        "slug": "indoleads",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/5500/conversions/q21CfeicZ5ndKELSjZjQwEXVk-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/indoleads",
+        "pivot": {
+          "affiliate_id": 1598,
+          "network_id": 33
+        },
+        "logo": {
+          "id": 5500,
+          "model_type": "network",
+          "model_id": 33,
+          "uuid": "fea2b90f-0ca5-4986-8b7e-ad57da6b0adc",
+          "collection_name": "logo_network",
+          "name": "5PGHnlcq_400x400",
+          "file_name": "q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 9972,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-11-14T14:06:41.000000Z",
+          "updated_at": "2024-11-14T14:06:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/5500/q21CfeicZ5ndKELSjZjQwEXVk.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 367,
+      "rankable_type": "affiliate",
+      "rankable_id": 1598,
+      "rank": 5840,
+      "created_at": "2024-05-04T08:10:53.000000Z",
+      "updated_at": "2025-12-08T16:48:43.000000Z"
+    },
+    "logo": {
+      "id": 3236,
+      "model_type": "affiliate",
+      "model_id": 1598,
+      "uuid": "978a6539-1f26-4c1d-9f2b-b45671aa43c3",
+      "collection_name": "logo_affiliate",
+      "name": "401704823_727355819251564_4123347451174263454_n",
+      "file_name": "vNqfPllvZ3wXV6rZwN9Btjmz8.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 75702,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-05-04T07:38:22.000000Z",
+      "updated_at": "2024-05-04T07:38:23.000000Z",
+      "original_url": "https://affiliate.watch/storage/3236/vNqfPllvZ3wXV6rZwN9Btjmz8.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 20,
+    "name": "SiteGround",
+    "slug": "siteground",
+    "teaser_affiliate": "$50-$100 Per Sale",
+    "teaser_company": "Easy Web Hosting Crafted With Care",
+    "website": "https://siteground.com",
+    "launch_year": "2004",
+    "rating_ai": "90.16",
+    "minimum_payout": "$50",
+    "cookie_days": 60,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/20/conversions/dumuQUnq0OJ19UDh9pKgUeQcb-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/20/conversions/dumuQUnq0OJ19UDh9pKgUeQcb-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/20/conversions/dumuQUnq0OJ19UDh9pKgUeQcb-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/20/conversions/dumuQUnq0OJ19UDh9pKgUeQcb-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/siteground",
+    "goPartner": "https://affiliate.watch/go/siteground/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Hosting",
+        "slug": "hosting",
+        "teaser": "Explore the hosting category in our affiliate program directory to find premier web hosting affiliate programs",
+        "description": "In the vast digital landscape, our web hosting category emerges as a pivotal resource for affiliates aiming to monetize their platforms through web hosting services. This category showcases a diverse collection of affiliate programs from reputable web hosting providers, spanning shared, VPS, dedicated, and cloud hosting options. Each program is selected for its potential to offer substantial commissions, reliability, and exceptional customer support, ensuring affiliates can confidently promote services to their audience. By connecting with these carefully vetted hosting services, affiliates have the opportunity to earn competitive payouts by referring customers seeking robust, scalable, and secure web solutions. Our directory is the bridge between high-quality web hosting services and affiliates looking to elevate their earnings in the digital space.",
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:24:16.000000Z",
+        "pivot": {
+          "affiliate_id": 20,
+          "category_id": 1
+        }
+      },
+      {
+        "id": 7,
+        "name": "Domains",
+        "slug": "domains",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T16:54:02.000000Z",
+        "pivot": {
+          "affiliate_id": 20,
+          "category_id": 7
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 5,
+        "name": "Independent",
+        "slug": "independent",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/3595/conversions/oI8j4KN2p9N7TI8IqCzl4WwdM-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/independent",
+        "pivot": {
+          "affiliate_id": 20,
+          "network_id": 5
+        },
+        "logo": {
+          "id": 3595,
+          "model_type": "network",
+          "model_id": 5,
+          "uuid": "7ae7d34b-4ba9-49d4-88cc-84913b2b692e",
+          "collection_name": "logo_network",
+          "name": "Screenshot from 2024-05-19 11-57-04",
+          "file_name": "oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "mime_type": "image/png",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 100430,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-05-19T04:57:42.000000Z",
+          "updated_at": "2024-05-19T04:57:42.000000Z",
+          "original_url": "https://affiliate.watch/storage/3595/oI8j4KN2p9N7TI8IqCzl4WwdM.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 19,
+      "rankable_type": "affiliate",
+      "rankable_id": 20,
+      "rank": 12501,
+      "created_at": "2024-03-17T11:24:57.000000Z",
+      "updated_at": "2026-03-09T07:14:10.000000Z"
+    },
+    "logo": {
+      "id": 20,
+      "model_type": "affiliate",
+      "model_id": 20,
+      "uuid": "65191f07-af0d-4c95-ac6d-8d5cf21c5e6b",
+      "collection_name": "logo_affiliate",
+      "name": "600-ee65d6e936e71c0422a5f9508e642ec5",
+      "file_name": "dumuQUnq0OJ19UDh9pKgUeQcb.png",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 35827,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-03-17T03:48:47.000000Z",
+      "updated_at": "2024-03-17T03:48:52.000000Z",
+      "original_url": "https://affiliate.watch/storage/20/dumuQUnq0OJ19UDh9pKgUeQcb.png",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1755,
+    "name": "Gusto",
+    "slug": "gusto",
+    "teaser_affiliate": "$200 Per Sale",
+    "teaser_company": "Online Payroll and HR Solutions",
+    "website": "https://gusto.com",
+    "launch_year": "2012",
+    "rating_ai": "90.00",
+    "minimum_payout": null,
+    "cookie_days": 120,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/4536/conversions/TxzmrakK6dZ7m5Lhc2SK9XGFT-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/4536/conversions/TxzmrakK6dZ7m5Lhc2SK9XGFT-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/4536/conversions/TxzmrakK6dZ7m5Lhc2SK9XGFT-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/4536/conversions/TxzmrakK6dZ7m5Lhc2SK9XGFT-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/gusto",
+    "goPartner": "https://affiliate.watch/go/gusto/partner",
+    "all_payment_methods": [
+      {
+        "name": "ACH",
+        "slug": "ach"
+      },
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      }
+    ],
+    "categories": [
+      {
+        "id": 8,
+        "name": "Tools",
+        "slug": "tools",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-04-22T18:33:12.000000Z",
+        "pivot": {
+          "affiliate_id": 1755,
+          "category_id": 8
+        }
+      },
+      {
+        "id": 11,
+        "name": "Other",
+        "slug": "other",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T18:04:21.000000Z",
+        "pivot": {
+          "affiliate_id": 1755,
+          "category_id": 11
+        }
+      },
+      {
+        "id": 37,
+        "name": "Insurance",
+        "slug": "insurance",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-07-16T10:36:23.000000Z",
+        "updated_at": "2024-07-16T10:36:23.000000Z",
+        "pivot": {
+          "affiliate_id": 1755,
+          "category_id": 37
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 6,
+        "name": "Impact",
+        "slug": "impact",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2208/conversions/1ZtYPrA6srqCFym8PYa7oLV6K-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/impact",
+        "pivot": {
+          "affiliate_id": 1755,
+          "network_id": 6
+        },
+        "logo": {
+          "id": 2208,
+          "model_type": "network",
+          "model_id": 6,
+          "uuid": "1917c379-266b-4831-8404-bb71783079a4",
+          "collection_name": "logo_network",
+          "name": "600-cb1a83da9dd57fdf9f89d79fbead4dca",
+          "file_name": "1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 23143,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2208/1ZtYPrA6srqCFym8PYa7oLV6K.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 497,
+      "rankable_type": "affiliate",
+      "rankable_id": 1755,
+      "rank": 5402,
+      "created_at": "2024-07-09T10:26:18.000000Z",
+      "updated_at": "2025-12-08T16:49:05.000000Z"
+    },
+    "logo": {
+      "id": 4536,
+      "model_type": "affiliate",
+      "model_id": 1755,
+      "uuid": "4b43a572-0410-4150-bf1b-3aea39c15f5c",
+      "collection_name": "logo_affiliate",
+      "name": "359368040_659503056222178_2425317505393905897_n",
+      "file_name": "TxzmrakK6dZ7m5Lhc2SK9XGFT.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 185316,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-07-09T09:46:32.000000Z",
+      "updated_at": "2024-07-09T09:46:33.000000Z",
+      "original_url": "https://affiliate.watch/storage/4536/TxzmrakK6dZ7m5Lhc2SK9XGFT.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 1730,
+    "name": "Apollo",
+    "slug": "apollo",
+    "teaser_affiliate": "15-20% Commission For 1 Year",
+    "teaser_company": "Sales Intelligence and Engagement Platform",
+    "website": "https://www.apollo.io",
+    "launch_year": "2015",
+    "rating_ai": "89.98",
+    "minimum_payout": null,
+    "cookie_days": 90,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/4351/conversions/Tkwsf7V7QoGyoERhNCpOBkKxy-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/4351/conversions/Tkwsf7V7QoGyoERhNCpOBkKxy-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/4351/conversions/Tkwsf7V7QoGyoERhNCpOBkKxy-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/4351/conversions/Tkwsf7V7QoGyoERhNCpOBkKxy-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/apollo",
+    "goPartner": "https://affiliate.watch/go/apollo/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 4,
+        "name": "Sales",
+        "slug": "sales",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T17:56:54.000000Z",
+        "pivot": {
+          "affiliate_id": 1730,
+          "category_id": 4
+        }
+      },
+      {
+        "id": 17,
+        "name": "AI",
+        "slug": "ai",
+        "teaser": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs",
+        "description": "Explore the AI category in our affiliate program directory to find premier AI affiliate programs, meticulously curated for forward-thinking affiliates. These programs offer access to groundbreaking artificial intelligence platforms and tools, ranging from AI-powered writing assistants to AI art generators and automation services. By partnering with these innovative companies, you can earn commissions while promoting the future of technology. Whether you're a tech blogger, a software reviewer, or a digital marketer passionate about AI, our directory provides a diverse selection of affiliate opportunities to monetize your content and engage your audience with the latest in AI advancements.",
+        "created_at": "2023-04-11T23:53:58.000000Z",
+        "updated_at": "2024-04-22T18:24:22.000000Z",
+        "pivot": {
+          "affiliate_id": 1730,
+          "category_id": 17
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 1730,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 477,
+      "rankable_type": "affiliate",
+      "rankable_id": 1730,
+      "rank": 4737,
+      "created_at": "2024-06-28T15:00:13.000000Z",
+      "updated_at": "2025-12-08T16:49:02.000000Z"
+    },
+    "logo": {
+      "id": 4351,
+      "model_type": "affiliate",
+      "model_id": 1730,
+      "uuid": "b5c5e6f5-6201-455d-8506-2d91ce2d3060",
+      "collection_name": "logo_affiliate",
+      "name": "315082869_224101059961287_4851221349382667108_n",
+      "file_name": "Tkwsf7V7QoGyoERhNCpOBkKxy.jpg",
+      "mime_type": "image/jpeg",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 95890,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2024-06-28T14:51:56.000000Z",
+      "updated_at": "2024-06-28T14:51:57.000000Z",
+      "original_url": "https://affiliate.watch/storage/4351/Tkwsf7V7QoGyoERhNCpOBkKxy.jpg",
+      "preview_url": ""
+    }
+  },
+  {
+    "id": 2290,
+    "name": "ADP",
+    "slug": "adp",
+    "teaser_affiliate": "Up To $1,000 Per Lead",
+    "teaser_company": "Payroll And HR Management Solutions",
+    "website": "http://www.adp.com",
+    "launch_year": "1949",
+    "rating_ai": "89.77",
+    "minimum_payout": null,
+    "cookie_days": 30,
+    "logoUrls": {
+      "thumb_xs": "https://affiliate.watch/storage/7305/conversions/FWSZ3BiuBsVr90Ae2YNwArdua-thumb_xs.jpg",
+      "thumb_sm": "https://affiliate.watch/storage/7305/conversions/FWSZ3BiuBsVr90Ae2YNwArdua-thumb_sm.jpg",
+      "thumb_md": "https://affiliate.watch/storage/7305/conversions/FWSZ3BiuBsVr90Ae2YNwArdua-thumb_md.jpg",
+      "thumb_lg": "https://affiliate.watch/storage/7305/conversions/FWSZ3BiuBsVr90Ae2YNwArdua-thumb_lg.jpg"
+    },
+    "go": "https://affiliate.watch/go/adp",
+    "goPartner": "https://affiliate.watch/go/adp/partner",
+    "all_payment_methods": [
+      {
+        "name": "PayPal",
+        "slug": "paypal"
+      },
+      {
+        "name": "Stripe",
+        "slug": "stripe"
+      },
+      {
+        "name": "Wire Transfer",
+        "slug": "wire-transfer"
+      }
+    ],
+    "categories": [
+      {
+        "id": 10,
+        "name": "Finance",
+        "slug": "finance",
+        "teaser": null,
+        "description": null,
+        "created_at": "2019-04-30T07:23:55.000000Z",
+        "updated_at": "2024-03-22T17:06:27.000000Z",
+        "pivot": {
+          "affiliate_id": 2290,
+          "category_id": 10
+        }
+      },
+      {
+        "id": 26,
+        "name": "SaaS",
+        "slug": "saas",
+        "teaser": null,
+        "description": null,
+        "created_at": "2024-04-25T06:04:37.000000Z",
+        "updated_at": "2024-04-25T06:04:37.000000Z",
+        "pivot": {
+          "affiliate_id": 2290,
+          "category_id": 26
+        }
+      }
+    ],
+    "networks": [
+      {
+        "id": 2,
+        "name": "PartnerStack",
+        "slug": "partnerstack",
+        "logoUrls": {
+          "thumb_xs": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_xs.jpg",
+          "thumb_sm": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_sm.jpg",
+          "thumb_md": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_md.jpg",
+          "thumb_lg": "https://affiliate.watch/storage/2205/conversions/yokeJ91hfG1Nh49KwXb0maeKa-thumb_lg.jpg"
+        },
+        "go": "https://affiliate.watch/go/network/partnerstack",
+        "pivot": {
+          "affiliate_id": 2290,
+          "network_id": 2
+        },
+        "logo": {
+          "id": 2205,
+          "model_type": "network",
+          "model_id": 2,
+          "uuid": "aeb73915-e450-42a2-b104-fc94a75710a1",
+          "collection_name": "logo_network",
+          "name": "600-10a7a3a1eda4c62d512afaab70d70c02",
+          "file_name": "yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "conversions_disk": "public",
+          "size": 30004,
+          "manipulations": [],
+          "custom_properties": [],
+          "generated_conversions": {
+            "thumb_lg": true,
+            "thumb_md": true,
+            "thumb_sm": true,
+            "thumb_xs": true
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2024-03-17T03:51:26.000000Z",
+          "updated_at": "2024-03-17T04:06:25.000000Z",
+          "original_url": "https://affiliate.watch/storage/2205/yokeJ91hfG1Nh49KwXb0maeKa.png",
+          "preview_url": ""
+        }
+      }
+    ],
+    "similar_web": {
+      "id": 828,
+      "rankable_type": "affiliate",
+      "rankable_id": 2290,
+      "rank": 513,
+      "created_at": "2025-08-31T16:05:20.000000Z",
+      "updated_at": "2025-12-08T16:49:52.000000Z"
+    },
+    "logo": {
+      "id": 7305,
+      "model_type": "affiliate",
+      "model_id": 2290,
+      "uuid": "0bfc90bb-8700-4285-8c4a-7b1cd20cd497",
+      "collection_name": "logo_affiliate",
+      "name": "media-librarymgZTO3",
+      "file_name": "FWSZ3BiuBsVr90Ae2YNwArdua.png",
+      "mime_type": "image/webp",
+      "disk": "public",
+      "conversions_disk": "public",
+      "size": 5298,
+      "manipulations": [],
+      "custom_properties": [],
+      "generated_conversions": {
+        "thumb_lg": true,
+        "thumb_md": true,
+        "thumb_sm": true,
+        "thumb_xs": true
+      },
+      "responsive_images": [],
+      "order_column": 1,
+      "created_at": "2025-08-31T15:05:26.000000Z",
+      "updated_at": "2025-08-31T15:05:26.000000Z",
+      "original_url": "https://affiliate.watch/storage/7305/FWSZ3BiuBsVr90Ae2YNwArdua.png",
+      "preview_url": ""
+    }
+  }
+]
