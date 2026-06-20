@@ -1,17 +1,28 @@
 import os
-import sqlite3
+from dotenv import load_dotenv
+load_dotenv()
+import psycopg2
+import psycopg2.extras
 import json
 
-DB_FILE = os.environ.get("DB_FILE", "affiliates.db")
+DATABASE_URL = os.environ.get("DATABASE_URL")
+
+def get_db_connection():
+    if not DATABASE_URL:
+        raise ValueError("DATABASE_URL environment variable is not set!")
+    url = DATABASE_URL
+    if url.startswith("postgres://"):
+        url = url.replace("postgres://", "postgresql://", 1)
+    return psycopg2.connect(url)
 
 def init_db():
-    conn = sqlite3.connect(DB_FILE)
-    cursor = conn.cursor()
+    conn = get_db_connection()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
     # Create the table
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS affiliates (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        id SERIAL PRIMARY KEY,
         name TEXT NOT NULL,
         slug TEXT UNIQUE NOT NULL,
         website TEXT NOT NULL,
@@ -28,6 +39,7 @@ def init_db():
         clicks INTEGER DEFAULT 0
     )
     """)
+    conn.commit()
     
     # Seed data if empty
     cursor.execute("SELECT COUNT(*) FROM affiliates")
@@ -86,7 +98,7 @@ def init_db():
                     name, slug, website, affiliate_url, referral_code,
                     teaser_affiliate, teaser_company, rating_ai, cookie_days,
                     launch_year, logo_url, categories, payment_methods
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 """, (
                     name, slug, website, affiliate_url, referral_code,
                     teaser_affiliate, teaser_company, rating_ai, cookie_days,
@@ -99,6 +111,7 @@ def init_db():
     else:
         print(f"Database already contains {count} entries.")
         
+    cursor.close()
     conn.close()
 
 if __name__ == "__main__":

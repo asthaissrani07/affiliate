@@ -4,9 +4,13 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional
-import sqlite3
+from dotenv import load_dotenv
+load_dotenv()
+import psycopg2
+import psycopg2.extras
 import json
 import os
+from database import get_db_connection
 
 app = FastAPI(title="Affiliate.Watch Clone API")
 
@@ -18,8 +22,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-DB_FILE = os.environ.get("DB_FILE", "affiliates.db")
 
 # Pydantic model for updating program
 class ProgramUpdate(BaseModel):
@@ -48,11 +50,6 @@ def make_slug(name: str) -> str:
     s = re.sub(r'[\s-]+', '-', s)
     return s
 
-def get_db_connection():
-    conn = sqlite3.connect(DB_FILE)
-    conn.row_factory = sqlite3.Row
-    return conn
-
 @app.on_event("startup")
 def startup_event():
     # Make sure database is initialized and seeded
@@ -68,9 +65,10 @@ def read_root():
 @app.get("/api/meta")
 def get_meta():
     conn = get_db_connection()
-    cursor = conn.cursor()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     cursor.execute("SELECT categories, payment_methods FROM affiliates")
     rows = cursor.fetchall()
+    cursor.close()
     conn.close()
     
     categories = set()
@@ -103,9 +101,10 @@ def get_programs(
     sort_by: Optional[str] = "rating_desc"  # rating_desc, name_asc, clicks_desc
 ):
     conn = get_db_connection()
-    cursor = conn.cursor()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     cursor.execute("SELECT * FROM affiliates")
     rows = cursor.fetchall()
+    cursor.close()
     conn.close()
     
     programs = []
@@ -167,21 +166,23 @@ def get_programs(
 @app.put("/api/programs/{program_id}")
 def update_program(program_id: int, payload: ProgramUpdate):
     conn = get_db_connection()
-    cursor = conn.cursor()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
     # Check if exists
-    cursor.execute("SELECT * FROM affiliates WHERE id = ?", (program_id,))
+    cursor.execute("SELECT * FROM affiliates WHERE id = %s", (program_id,))
     program = cursor.fetchone()
     if not program:
+        cursor.close()
         conn.close()
         raise HTTPException(status_code=404, detail="Program not found")
         
     # Update url and referral code
     cursor.execute(
-        "UPDATE affiliates SET affiliate_url = ?, referral_code = ? WHERE id = ?",
+        "UPDATE affiliates SET affiliate_url = %s, referral_code = %s WHERE id = %s",
         (payload.affiliate_url.strip(), payload.referral_code.strip() if payload.referral_code else None, program_id)
     )
     conn.commit()
+    cursor.close()
     conn.close()
     
     return {"message": "Program updated successfully"}
@@ -193,12 +194,12 @@ def create_program(payload: ProgramCreate):
     base_slug = make_slug(payload.name)
     slug = base_slug
     conn = get_db_connection()
-    cursor = conn.cursor()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
     # Check uniqueness and alter slug if needed
     counter = 1
     while True:
-        cursor.execute("SELECT id FROM affiliates WHERE slug = ?", (slug,))
+        cursor.execute("SELECT id FROM affiliates WHERE slug = %s", (slug,))
         if not cursor.fetchone():
             break
         slug = f"{base_slug}-{counter}"
@@ -212,7 +213,7 @@ def create_program(payload: ProgramCreate):
             name, slug, website, affiliate_url, referral_code,
             teaser_affiliate, teaser_company, rating_ai, cookie_days,
             launch_year, logo_url, categories, payment_methods
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """, (
             payload.name.strip(),
             slug,
@@ -230,9 +231,11 @@ def create_program(payload: ProgramCreate):
         ))
         conn.commit()
     except Exception as e:
+        cursor.close()
         conn.close()
         raise HTTPException(status_code=400, detail=f"Database insertion failed: {str(e)}")
         
+    cursor.close()
     conn.close()
     return {"message": "Program added successfully", "slug": slug}
 
@@ -240,18 +243,20 @@ def create_program(payload: ProgramCreate):
 @app.get("/go/{slug}")
 def redirect_to_affiliate(slug: str):
     conn = get_db_connection()
-    cursor = conn.cursor()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
-    cursor.execute("SELECT * FROM affiliates WHERE slug = ?", (slug,))
+    cursor.execute("SELECT * FROM affiliates WHERE slug = %s", (slug,))
     row = cursor.fetchone()
     
     if not row:
+        cursor.close()
         conn.close()
         raise HTTPException(status_code=404, detail="Affiliate program not found")
         
     # Increment click count
-    cursor.execute("UPDATE affiliates SET clicks = clicks + 1 WHERE slug = ?", (slug,))
+    cursor.execute("UPDATE affiliates SET clicks = clicks + 1 WHERE slug = %s", (slug,))
     conn.commit()
+    cursor.close()
     conn.close()
     
     target_url = row["affiliate_url"]
